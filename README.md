@@ -1,1 +1,1 @@
-# audio-segmentation
+# speech-lexical-segmentation
